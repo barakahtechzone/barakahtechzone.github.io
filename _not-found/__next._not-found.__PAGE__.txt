@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0_0cjfmt1ifw2.js","/_next/static/chunks/3vdqagmpbhfli.js"],""]
+3:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+7:X
+18:X
+18:C
+0:{"buildId":"HfvHKbmOucRNLMPfIDVfD","data":[{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"flex min-h-screen flex-col items-center justify-center gap-6 px-6 text-center","children":[["$","span",null,{"className":"label-tech","children":"404"}],["$","h1",null,{"className":"text-display-md font-semibold text-gradient","children":"Page not found"}],["$","p",null,{"className":"max-w-md text-ink-soft","children":"The page or project you are looking for does not exist or may have been moved."}],["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-2 rounded-full bg-accent px-5 py-3 text-sm font-semibold text-bg transition-all hover:bg-accent-soft hover:shadow-glow","children":"Back to home"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#050303","media":"(prefers-color-scheme: dark)"}],["$","meta","3",{"name":"theme-color","content":"#f8f9fb","media":"(prefers-color-scheme: light)"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Barakah Tech Zone — Software Engineering & AI Solutions"}],["$","meta","1",{"name":"description","content":"We build high-performance web applications, SaaS platforms, enterprise systems and AI-powered products with modern architecture and production-grade engineering. Software development, AI engineering, CRM, ERP, LMS, e-commerce and scalable web applications."}],["$","meta","2",{"name":"author","content":"Barakah Tech Zone"}],["$","link","3",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","4",{"name":"keywords","content":"software development,SaaS development,AI engineering,enterprise applications,CRM,ERP,LMS,e-commerce,scalable web applications,Next.js,Laravel,microservices"}],["$","meta","5",{"name":"creator","content":"Barakah Tech Zone"}],["$","meta","6",{"name":"publisher","content":"Barakah Tech Zone"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-image-preview:large"}],["$","meta","9",{"name":"category","content":"technology"}],["$","link","10",{"rel":"canonical","href":"https://barakahtechzone.com/"}],["$","meta","11",{"name":"format-detection","content":"telephone=no"}],["$","meta","12",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","13",{"name":"apple-mobile-web-app-title","content":"Barakah"}],["$","meta","14",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","meta","15",{"property":"og:title","content":"Barakah Tech Zone — Software Engineering & AI Solutions"}],["$","meta","16",{"property":"og:description","content":"We build high-performance web applications, SaaS platforms, enterprise systems and AI-powered products with modern architecture and production-grade engineering. Software development, AI engineering, CRM, ERP, LMS, e-commerce and scalable web applications."}],["$","meta","17",{"property":"og:url","content":"https://barakahtechzone.com/"}],["$","meta","18",{"property":"og:site_name","content":"Barakah Tech Zone"}],["$","meta","19",{"property":"og:locale","content":"en_US"}],["$","meta","20",{"property":"og:image","content":"https://barakahtechzone.com/opengraph-image?ff6af88579b0d44e"}],["$","meta","21",{"property":"og:image:type","content":"image/png"}],["$","meta","22",{"property":"og:image:width","content":"1200"}],["$","meta","23",{"property":"og:image:height","content":"630"}],["$","meta","24",{"property":"og:image:alt","content":"Barakah Tech Zone — Software Engineering & AI Solutions"}],["$","meta","25",{"property":"og:type","content":"website"}],["$","meta","26",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","27",{"name":"twitter:title","content":"Barakah Tech Zone — Software Engineering & AI Solutions"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13"]}]}]}],"$L14"]}],"isPartial":"$@15","staleTime":"$7","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$7","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1c:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+1d:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+5:null
+a:["$","meta","28",{"name":"twitter:description","content":"We build high-performance web applications, SaaS platforms, enterprise systems and AI-powered products with modern architecture and production-grade engineering. Software development, AI engineering, CRM, ERP, LMS, e-commerce and scalable web applications."}]
+b:["$","meta","29",{"name":"twitter:image","content":"https://barakahtechzone.com/opengraph-image?ff6af88579b0d44e"}]
+c:["$","meta","30",{"name":"twitter:image:alt","content":"Barakah Tech Zone — Software Engineering & AI Solutions"}]
+d:["$","meta","31",{"name":"twitter:image:type","content":"image/png"}]
+e:["$","meta","32",{"name":"twitter:image:width","content":"1200"}]
+f:["$","meta","33",{"name":"twitter:image:height","content":"630"}]
+10:["$","link","34",{"rel":"icon","href":"/icon.png?icon.2pmpvm-6t_ehm.png","sizes":"48x48","type":"image/png"}]
+11:["$","link","35",{"rel":"icon","href":"/icon.svg?icon.2fcjzo8o1utqr.svg","sizes":"any","type":"image/svg+xml"}]
+12:["$","link","36",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1xbyf7ibnsfvp.png","sizes":"180x180","type":"image/png"}]
+13:["$","$L1b","37",{}]
+14:["$","meta",null,{"name":"next-size-adjust","content":""}]
+16:["$","$1","c",{"children":[null,["$","$L1c",null,{"parallelRouterKey":"children","template":["$","$L1d",null,{}]}]]}]
+1a:true
+7:300
+7:C
+19:0
+17:"$undefined"
+6:"$undefined"
+15:"$undefined"

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- A favicon is served as a standalone SVG document, so there is no
+       stylesheet and `var(--color-*)` cannot resolve. The canvas value is
+       therefore a literal; keep it in sync with `--color-bg` by hand. -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1214"/>
+      <stop offset="100%" stop-color="#050303"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="112" fill="url(#bg)" stroke="rgba(255,255,255,0.14)" stroke-width="8"/>
+  <circle cx="168" cy="176" r="37" fill="#ea2845"/>
+  <circle cx="344" cy="176" r="37" fill="#c2410c"/>
+  <circle cx="256" cy="344" r="37" fill="#ea2845"/>
+  <path d="M168 176 L344 176 M168 176 L256 344 M344 176 L256 344" stroke="rgba(255,255,255,0.25)" stroke-width="18" stroke-linecap="round"/>
+</svg>

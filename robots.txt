@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://barakahtechzone.com
+Sitemap: https://barakahtechzone.com/sitemap.xml

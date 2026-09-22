@@ -1,0 +1,7 @@
+# This branch is generated output, not source. It must be served byte-for-byte,
+# so disable all line-ending normalisation.
+#
+# Without this, `core.autocrlf=true` (the default on Windows) rewrites every LF
+# file as CRLF on checkout, and `git status` reports the entire tree as modified
+# even though nothing meaningful changed.
+* -text
